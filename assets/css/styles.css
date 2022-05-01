@@ -474,13 +474,42 @@ input {
 
 /*=============== CAST ===============*/
 
+
+/* .directors {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.directors img {
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    object-fit: cover;
+    background-position: center;
+    margin: 1rem 1rem;
+}
+
+.director {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.music_director {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5rem;
+} */
+
 .cast {
     margin: 60px 0;
 }
 
-.cast h1 {
+.cast h2 {
     text-align: center;
-    margin: 3rem 0;
+    margin: 4rem 0;
     font-size: 2rem;
 }
 
@@ -532,6 +561,11 @@ input {
 .discover__description {
     display: block;
     font-size: var(--smaller-font-size);
+}
+
+.discover__container img {
+    height: 300px;
+    width: 260px;
 }
 
 .discover__img {
@@ -635,7 +669,7 @@ input {
 /*=============== PLACES ===============*/
 
 .place {
-    margin: 2rem 0;
+    margin-top: 2rem;
 }
 
 .place p {
