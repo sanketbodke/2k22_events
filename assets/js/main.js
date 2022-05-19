@@ -50,7 +50,7 @@ let swiper = new Swiper(".discover__container", {
         rotate: 0,
     },
     autoplay: {
-        delay: 950,
+        delay: 1100,
       },
 })
 
