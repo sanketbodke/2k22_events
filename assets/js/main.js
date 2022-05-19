@@ -49,6 +49,9 @@ let swiper = new Swiper(".discover__container", {
     coverflowEffect: {
         rotate: 0,
     },
+    autoplay: {
+        delay: 950,
+      },
 })
 
 /*==================== VIDEO ====================*/
