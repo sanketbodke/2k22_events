@@ -542,10 +542,14 @@ input {
 
 } */
 
+.cast{
+    min-height: 73vh;
+}
+
 .cast h2 {
     text-align: center;
     margin: 7rem 0;
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 
 .cast .cast_container {
@@ -792,9 +796,8 @@ footer p {
     background: var(--first-color);
     padding: 2rem 0;
     color: #FFF;
-    bottom: 0;
-    position: fixed;
     width: 100%;
+    margin-top: 1rem;
 }
 
 
