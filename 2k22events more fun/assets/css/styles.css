@@ -543,8 +543,9 @@ input {
 } */
 
 .cast{
-    min-height: 68vh;
+    min-height: 70vh;
 }
+
 
 .cast h2 {
     text-align: center;
