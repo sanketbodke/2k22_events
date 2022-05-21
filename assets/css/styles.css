@@ -534,7 +534,7 @@ input {
     text-align: center;
 }
 
-.cast .cast_container a{
+.cast .cast_container a {
     text-decoration: none;
     color: var(--text-color);
 }
