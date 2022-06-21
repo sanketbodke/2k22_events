@@ -612,9 +612,10 @@ input {
 }
 
 #activities .act_1_imgs img {
-    width: 180px;
-    height: auto;
+    width: 200px;
+    height: 320px;
     padding: 30px 0 10px 0;
+    background-position: center;
 }
 
 
